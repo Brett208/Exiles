@@ -1,7 +1,7 @@
 Commanders,
 
 We have suffered a major setback: the Eden outpost you recently liberated has been completely destroyed by a
-massive Plymouth attack force.  We have reason to believe the attack was specifically targetting us, not Eden, and
+massive Plymouth attack force.  We have reason to believe the attack was specifically targeting us, not Eden, and
 had to do with our use of the colony as a launching site for our space program.  It seems Plymouth has developed a
 way to quickly track the source of our launches.  We have not been able to identify any new satellites in orbit that
 would explain this capability.  Until we can stop, or find a way to delay, their launch tracking program, we must
@@ -12,7 +12,7 @@ In the meantime, we must take drastic measures to maximize our chances for survi
 massive research complex, where Eden continues its efforts to develop a counteragent to combat the Blight.  It seems
 that the researchers there may be on the cusp of a breakthrough.  Unfortunately, this research complex is also home
 to Eden's weapons development program, which has made it a target for Plymouth.  We have detected an armed convoy
-en route to the area, and we can only assume their objective is to destroy the base there.  Eden has dispatched
+enroute to the area, and we can only assume their objective is to destroy the base there.  Eden has dispatched
 reinforcements to defend the base, but estimates suggest they will not make it in time.
 
 If we want to procure Eden's research data, it seems we will have to defend the base ourselves.  We have prepared a
